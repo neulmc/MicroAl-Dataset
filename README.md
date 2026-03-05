@@ -74,4 +74,4 @@ This dataset is provided for academic research purposes only. Commercial use is 
 
 ## 📧 Contact
 
-For questions or collaboration opportunities, please contact: your-email@example.com
+For questions or collaboration opportunities, please contact: your-email@example.com.
