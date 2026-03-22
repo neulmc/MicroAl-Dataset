@@ -2,6 +2,7 @@
 
 🎉 **News:** Our paper **Shape2Mask: A Weakly Supervised Instance Segmentation Method for Aluminum Alloy Precipitations Based on Prior Shape Knowledge** has been published in *IEEE Transactions on Instrumentation and Measurement* (TIM-2026). [[View Paper]](https://ieeexplore.ieee.org/document/11449477)
 
+---
 A curated dataset of aluminum alloy microstructures under weak annotations, supporting research in visual perception and measurement for materials science.
 
 ## 📖 Overview
