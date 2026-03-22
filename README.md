@@ -145,7 +145,7 @@ If you find these resources helpful, please consider citing our related papers.
 
 [2] <a href="https://github.com/neulmc/BetaNet"> **[2023 Knowl. Based Syst.]** (Natural image dataset) Beta Network for Boundary Detection under Nondeterministic Labels.</a>
 
-[3] <a href="https://github.com/neulmc/Shape2Mask"> **[2026 TIM under review]** (TEM image dataset) Shape2Mask: A Weakly Supervised Instance Segmentation Method for Aluminum Alloy Precipitations Based on Prior Shape Knowledge.</a>
+[3] <a href="https://github.com/neulmc/Shape2Mask"> **[2026 TIM]** (TEM image dataset) Shape2Mask: A Weakly Supervised Instance Segmentation Method for Aluminum Alloy Precipitations Based on Prior Shape Knowledge.</a>
 
 [4] <a href="https://github.com/neulmc/PSCL"> **[2026 SR]** (Pre-heat-treated dataset) Patch-Sampled Contrastive Learning for Dense Prediction Pretraining in Metallographic Images.</a>
 
