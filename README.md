@@ -58,7 +58,7 @@ Following the taxonomy of weakly supervised learning, three types of weak annota
 
 ## 🎯 Intended Use
 
-This dataset is intended for:
+Our dataset is intended for:
 
 - Developing fully/weakly supervised learning methods for microstructure analysis
 - Benchmarking visual perception models under limited/imperfect annotations
